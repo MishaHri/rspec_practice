@@ -1,6 +1,6 @@
 
 RSpec.shared_context "common" do
-before do
+ before do
 
   @foods = []
 end
